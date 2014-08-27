@@ -1,0 +1,6 @@
+1 [main] ERROR Funcoes.Log  - Oops, deu erro: Loga esse no arquivo, Log4J!
+0 [main] ERROR Funcoes.Log  - Erro --- >  Procedure PROC_P_AT has no parameters and arguments were supplied.
+0 [main] INFO Funcoes.Log  - 25/06/2014 22:35:42:0310 ------------------- Iniciando Consulta à Assinatura  ------------------- 
+52 [main] INFO Funcoes.Log  - 25/06/2014 22:35:42:0310 - Entrando na tabela 'Assinatura'
+52 [main] INFO Funcoes.Log  - 25/06/2014 22:35:42:0310 - Saindo da consulta à tabela 'Assinatura'
+1953 [main] ERROR Funcoes.Log  - 25/06/2014 22:35:45:0523 - Message: Procedure PROC_P_AT has no parameters and arguments were supplied.
